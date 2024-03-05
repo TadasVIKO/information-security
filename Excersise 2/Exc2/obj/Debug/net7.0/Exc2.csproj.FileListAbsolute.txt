@@ -1,0 +1,15 @@
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/bin/Debug/net7.0/Exc2
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/bin/Debug/net7.0/Exc2.deps.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/bin/Debug/net7.0/Exc2.runtimeconfig.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/bin/Debug/net7.0/Exc2.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/bin/Debug/net7.0/Exc2.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.csproj.AssemblyReference.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.AssemblyInfoInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.AssemblyInfo.cs
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.csproj.CoreCompileInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/refint/Exc2.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/Exc2.genruntimeconfig.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Exc2/Exc2/obj/Debug/net7.0/ref/Exc2.dll
