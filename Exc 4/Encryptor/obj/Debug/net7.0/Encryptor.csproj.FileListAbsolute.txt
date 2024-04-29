@@ -1,0 +1,15 @@
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/bin/Debug/net7.0/Encryptor
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/bin/Debug/net7.0/Encryptor.deps.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/bin/Debug/net7.0/Encryptor.runtimeconfig.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/bin/Debug/net7.0/Encryptor.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/bin/Debug/net7.0/Encryptor.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.csproj.AssemblyReference.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.AssemblyInfoInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.AssemblyInfo.cs
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.csproj.CoreCompileInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/refint/Encryptor.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/Encryptor.genruntimeconfig.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Encryptor/obj/Debug/net7.0/ref/Encryptor.dll

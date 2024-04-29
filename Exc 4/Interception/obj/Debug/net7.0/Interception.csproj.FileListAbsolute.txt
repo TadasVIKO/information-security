@@ -1,0 +1,15 @@
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/bin/Debug/net7.0/Interception
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/bin/Debug/net7.0/Interception.deps.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/bin/Debug/net7.0/Interception.runtimeconfig.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/bin/Debug/net7.0/Interception.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/bin/Debug/net7.0/Interception.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.csproj.AssemblyReference.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.AssemblyInfoInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.AssemblyInfo.cs
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.csproj.CoreCompileInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/refint/Interception.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/Interception.genruntimeconfig.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Information Security/Excersise 4/Encryptor/Interception/obj/Debug/net7.0/ref/Interception.dll
